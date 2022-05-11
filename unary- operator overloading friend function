@@ -1,4 +1,4 @@
-//proggram to demonstreate unary -(minus)operator overloading friend function
+//proggram to demonstreate unary -(minus)operator overloading using friend function
 
 #include<iostream.h>
 #include<conio.h>
